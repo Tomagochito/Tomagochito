@@ -5,12 +5,16 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Pasatiempos](#pasatiempos)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Bolaños Tomas
+* Ocupación: Estudios de grado en Computacion
+* Lugar de residencia: Casa
+* Sitio web: este
 ## Proyectos
-* [Lista de tus proyectos]
+* Heladeria
 ## Intereses
-* [Lista de tus intereses]
+* Trabajo Remoto
+## Pasatiempos
+* Jugar videojuegos en la computadora
+* Revisar precios en tiendas de tecnologías
