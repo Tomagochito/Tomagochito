@@ -10,8 +10,7 @@ proyectos y mis intereses.
 ## Información personal
 * Nombre: Bolaños Tomas
 * Ocupación: Estudios de grado en Computacion
-* Lugar de residencia: Casa
-* Sitio web: este
+* Lugar de residencia: Ecuador-Guayaquil
 ## Proyectos/Experiencias
 * Desarrollo de una app de Heladeria en java sin backend
 * Desarrollo de un sistema de base de datos parecido a booking.com
