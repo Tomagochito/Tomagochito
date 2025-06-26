@@ -21,6 +21,7 @@ proyectos y mis intereses.
 * C (básico)
 ## Intereses
 * Trabajo Remoto
+* Programación web y móvil
 ## Pasatiempos
-* Jugar videojuegos en la computadora
-* Revisar precios en tiendas de tecnologías
+* Leer libros en formato _digital_
+* Ver videos en _Youtube_ de diversos temas
