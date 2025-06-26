@@ -7,21 +7,21 @@ proyectos y mis intereses.
 * [Tecnologías conocidas](#tecnologías-conocidas).
 * [Intereses](#intereses)
 * [Pasatiempos](#pasatiempos)
-## Información personal
+### Información personal
 * Nombre: Bolaños Tomas
 * Ocupación: Estudios de grado en Computacion
 * Lugar de residencia: Ecuador-Guayaquil
-## Proyectos/Experiencias
+### Proyectos/Experiencias
 * Desarrollo de una app de Heladeria en java sin backend
 * Desarrollo de un sistema de base de datos parecido a booking.com
-## Tecnologías conocidas
+### Tecnologías conocidas
 * Java y javafx (intermedio)
 * Python (basico)
 * SQL (intermedio)
 * C (básico)
-## Intereses
+### Intereses
 * Trabajo Remoto
 * Programación web y móvil
-## Pasatiempos
+### Pasatiempos
 * Leer libros en formato _digital_
-* Ver videos en _Youtube_ de diversos temas
+* Ver videos en **Youtube** de diversos temas
